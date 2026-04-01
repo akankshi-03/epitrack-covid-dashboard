@@ -1,7 +1,7 @@
 
 # 🦠 EpiTrack — COVID-19 Epidemic Dashboard
 
-Live Dashboard: (add after deploy)
+Live Dashboard: (https://epitrack-covid-dashboard-eiju2qyeamsxc7ncujfkqk.streamlit.app/))
 
 ## About
 AI-powered epidemic spread prediction dashboard built for Codecure AI Hackathon at IIT BHU.
